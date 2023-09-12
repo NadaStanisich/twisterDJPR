@@ -31,5 +31,7 @@
 <style>
     div {
         text-align: center;
+        background: magenta;
     }
+
 </style>
